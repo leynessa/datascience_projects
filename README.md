@@ -1,4 +1,4 @@
-# datascience_projects
+# CNN_imageclassifier
 This project is a simple Convolutional Neural Network image classifier implemented in Keras-tensorflow. 
 
 the summary of the model
